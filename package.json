@@ -106,7 +106,7 @@
     "pascalcase": "^1.0.0",
     "playwright-test": "^7.0.2",
     "polka": "^0.5.2",
-    "premove": "^3.0.1",
+    "premove": "^4.0.0",
     "proper-lockfile": "^4.1.2",
     "react-native-test-runner": "^5.0.0",
     "read-pkg-up": "7.0.1",
