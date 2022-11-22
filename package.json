@@ -84,7 +84,7 @@
     "env-paths": "^2.2.1",
     "esbuild": "^0.12.15",
     "esbuild-register": "^2.3.0",
-    "eslint": "^7.23.0",
+    "eslint": "^8.28.0",
     "eslint-config-ipfs": "^2.0.0",
     "execa": "^5.0.0",
     "extract-zip": "^2.0.1",
